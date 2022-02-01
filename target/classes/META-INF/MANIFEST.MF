@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Howard Mabhugu
+Build-Jdk: 11.0.10
+Implementation-Title: BankApp
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.coding.exercise
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/bank-app
+Created-By: Maven Integration for Eclipse
+

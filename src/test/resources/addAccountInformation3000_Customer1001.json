@@ -1,0 +1,17 @@
+{
+  "accountnumber": 112233445566,
+  "activeBalance": 0,
+  "branchInfomartion": {
+    "branchCode": 10,
+    "branchName": "Joina City",
+    "routingNumber": 110
+  },
+  "creditAmount": 1000,
+  "creditNarration": "Account Creation, Initial Deposit",
+  "currency": "USD",
+  "dateOfCreation": "2022-02-01T10:38:40.904Z",
+  "debitAmount": 0,
+  "debitNarration": " ",
+  "initialBalance": 1000,
+  "mobileNumber": "0784942650"
+}

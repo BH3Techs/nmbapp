@@ -1,0 +1,12 @@
+{
+	"customerNumber": 1001,
+	"firstName": "Howard",
+	"lastName": "Mabhugu",
+	"nationalId": "27-228970F27",
+	"title": "Mr",
+	"homeOwner": "Yes",
+    "email": "hmabhugu@test.com",
+    "creationDate": "2022-05-05T22:01:05.964Z",
+    "gender": "Male",
+    "userName": "Bhugs Hardy"
+}
